@@ -1,0 +1,15 @@
+{
+  "name": "hexo-tag-graphviz",
+  "version": "0.0.1",
+  "description": "Graphviz tag for hexo",
+  "main": "index.js",
+  "keywords": [
+    "graphviz",
+    "hexo"
+  ],
+  "author": "Caroline Glassberg-Powell",
+  "license": "MIT",
+  "dependencies": {
+    "hexo-fs": "^0.1.3"
+  }
+}
